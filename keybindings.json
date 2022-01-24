@@ -1,0 +1,21 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+x ctrl+c",
+        "command": "workbench.action.quit"
+    },
+    {
+        "key": "ctrl+x ctrl+f",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+o",
+        "command": "emacs.enterMarkMode",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+space",
+        "command": "-emacs.enterMarkMode",
+        "when": "editorTextFocus"
+    }
+]
