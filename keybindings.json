@@ -10,12 +10,12 @@
     },
     {
         "key": "ctrl+o",
-        "command": "emacs.enterMarkMode",
+        "command": "emacs-mcx.setMarkCommand",
         "when": "editorTextFocus"
     },
     {
         "key": "ctrl+space",
-        "command": "-emacs.enterMarkMode",
+        "command": "-emacs-mcx.setMarkCommand",
         "when": "editorTextFocus"
     }
 ]

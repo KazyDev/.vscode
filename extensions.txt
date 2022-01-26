@@ -1,9 +1,9 @@
+adam-bender.commit-message-editor@0.19.7
 amazonwebservices.aws-toolkit-vscode@1.35.0
 aws-amplify.aws-amplify-vscode@0.0.4
 dbaeumer.vscode-eslint@2.2.2
 eamodio.gitlens@11.7.0
 kamikillerto.vscode-colorize@0.11.1
-lfs.vscode-emacs-friendly@0.9.0
 ms-python.python@2021.12.1559732655
 ms-python.vscode-pylance@2022.1.3
 ms-toolsai.jupyter@2021.11.1001550889
@@ -12,5 +12,6 @@ ms-vscode.cpptools@1.7.1
 ms-vscode.makefile-tools@0.3.1
 PKief.material-icon-theme@4.12.1
 redhat.vscode-yaml@1.3.0
+tuttieee.emacs-mcx@0.37.1
 yzhang.markdown-all-in-one@3.4.0
 zhuangtongfa.material-theme@3.13.16
